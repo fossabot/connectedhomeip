@@ -1,6 +1,7 @@
 # Matter
 
 [![Builds](https://github.com/project-chip/connectedhomeip/workflows/Builds/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/build.yaml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwen-qibo%2Fconnectedhomeip.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwen-qibo%2Fconnectedhomeip?ref=badge_shield)
 
 **Builds**
 
@@ -226,3 +227,6 @@ The Matter repository is structured as follows:
 # License
 
 Matter is released under the [Apache 2.0 license](./LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwen-qibo%2Fconnectedhomeip.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwen-qibo%2Fconnectedhomeip?ref=badge_large)
